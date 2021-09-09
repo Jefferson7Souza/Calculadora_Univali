@@ -3,3 +3,5 @@
 Calculadora _ Projeto Faculdade
 
 Projeto da faculdade de Análise e desenvolvimento de Sistemas.
+
+Univali - Universidade do Vale do Itajaí.
